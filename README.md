@@ -12,3 +12,6 @@ This repository contains a demonstration of single-cell omics analysis and visua
 - **scATAC-seq_Visualisation.ipynb** — complete analysis notebook  
 - **umap_kmeans_clusters.png** — static 2D UMAP 
 - **umap3d_interactive.html** — standalone interactive visualization   
+
+### Main script
+- Follow the scATAC-seq_Visualisation.ipynb notebook
