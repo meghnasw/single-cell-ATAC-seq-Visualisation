@@ -9,7 +9,8 @@ This repository contains a demonstration of single-cell omics analysis and visua
 - 2D and 3D UMAP plots
 
 ### Files
-- **scATAC-seq_Visualisation.ipynb** — complete analysis notebook  
+- **scATAC-seq_Visualisation.ipynb** — complete analysis notebook
+- **elbow_plot_kmeans.png** - elbow plot to determine n_clusters  
 - **umap_kmeans_clusters.png** — static 2D UMAP 
 - **umap3d_interactive.html** — standalone interactive visualization   
 
