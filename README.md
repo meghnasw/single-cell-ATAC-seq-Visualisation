@@ -1,4 +1,4 @@
-# Single-cell-ATAC-seq-Visualisation
+# Single-cell Transcriptomics Data Visualisation
 
 This repository contains a demonstration of single-cell omics analysis and visualisation in Python. I used the raw PBMC3k dataset from Scanpy. The final clusters represent groups of immune cells with similar gene expression profiles. In a full analysis, these clusters would be assigned cell-type identities using canonical marker genes. Here, the focus is on demonstrating the computational workflow rather than performing full cell-type annotation.
 
